@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="20" viewBox="0 0 300 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #243552;
+        font-size: 15px;
+        font-family: KanazawaHonmaruGothicMini;
+      }
+
+      .cls-2 {
+        font-family: YuGothicUI-Regular, Yu Gothic UI;
+      }
+    </style>
+  </defs>
+  <text id="笑顔で女性スタッフがお待ちしております_" data-name="笑顔で女性スタッフがお待ちしております♪" class="cls-1" transform="translate(0 16)"><tspan x="0" y="0">笑顔で女性スタッフがお待ちしております</tspan><tspan class="cls-2" y="0">♪</tspan></text>
+</svg>

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="367" height="155" viewBox="0 0 367 155">
+  <g id="calender-sp" transform="translate(-24 -769)">
+    <g id="長方形_26" data-name="長方形 26" transform="translate(24 769)" fill="#243552" stroke="#243552" stroke-width="5">
+      <rect width="367" height="155" rx="6" stroke="none"/>
+      <rect x="2.5" y="2.5" width="362" height="150" rx="3.5" fill="none"/>
+    </g>
+    <g id="長方形_27" data-name="長方形 27" transform="translate(30 809)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="354" height="96" rx="7" stroke="none"/>
+      <rect x="0.5" y="0.5" width="353" height="95" rx="6.5" fill="none"/>
+    </g>
+    <text id="月" transform="translate(141 792)" fill="#fff" font-size="12" font-family="KanazawaHonmaruGothicMini"><tspan x="0" y="0">月</tspan></text>
+    <text id="火" transform="translate(174 792)" fill="#fff" font-size="12" font-family="KanazawaHonmaruGothicMini"><tspan x="0" y="0">火</tspan></text>
+    <text id="水" transform="translate(208 792)" fill="#fff" font-size="12" font-family="KanazawaHonmaruGothicMini"><tspan x="0" y="0">水</tspan></text>
+    <text id="木" transform="translate(242 792)" fill="#fff" font-size="12" font-family="KanazawaHonmaruGothicMini"><tspan x="0" y="0">木</tspan></text>
+    <text id="金" transform="translate(275 792)" fill="#fff" font-size="12" font-family="KanazawaHonmaruGothicMini"><tspan x="0" y="0">金</tspan></text>
+    <text id="土" transform="translate(309 792)" fill="#fff" font-size="12" font-family="KanazawaHonmaruGothicMini"><tspan x="0" y="0">土</tspan></text>
+    <text id="日_祝" data-name="日/祝" transform="translate(342 792)" fill="#fff" font-size="12" font-family="KanazawaHonmaruGothicMini"><tspan x="0" y="0">日/祝</tspan></text>
+    <line id="線_13" data-name="線 13" x1="14.511" y2="15.171" transform="translate(139.76 828.688)" fill="none" stroke="#243552" stroke-width="2"/>
+    <line id="線_16" data-name="線 16" x1="14.511" y2="15.171" transform="translate(307.298 866.285)" fill="none" stroke="#243552" stroke-width="2"/>
+    <line id="線_17" data-name="線 17" x1="14.511" y2="15.171" transform="translate(139.76 867.604)" fill="none" stroke="#243552" stroke-width="2"/>
+    <g id="楕円形_11" data-name="楕円形 11" transform="translate(173 829)" fill="#243552" stroke="#243552" stroke-width="1">
+      <ellipse cx="7.5" cy="7" rx="7.5" ry="7" stroke="none"/>
+      <ellipse cx="7.5" cy="7" rx="7" ry="6.5" fill="none"/>
+    </g>
+    <g id="楕円形_12" data-name="楕円形 12" transform="translate(207 829)" fill="#243552" stroke="#243552" stroke-width="1">
+      <ellipse cx="7.5" cy="7" rx="7.5" ry="7" stroke="none"/>
+      <ellipse cx="7.5" cy="7" rx="7" ry="6.5" fill="none"/>
+    </g>
+    <g id="楕円形_13" data-name="楕円形 13" transform="translate(241 828)" fill="#243552" stroke="#243552" stroke-width="1">
+      <circle cx="7" cy="7" r="7" stroke="none"/>
+      <circle cx="7" cy="7" r="6.5" fill="none"/>
+    </g>
+    <g id="楕円形_14" data-name="楕円形 14" transform="translate(274 828)" fill="#243552" stroke="#243552" stroke-width="1">
+      <circle cx="7.5" cy="7.5" r="7.5" stroke="none"/>
+      <circle cx="7.5" cy="7.5" r="7" fill="none"/>
+    </g>
+    <g id="楕円形_15" data-name="楕円形 15" transform="translate(308 828)" fill="#243552" stroke="#243552" stroke-width="1">
+      <circle cx="7.5" cy="7.5" r="7.5" stroke="none"/>
+      <circle cx="7.5" cy="7.5" r="7" fill="none"/>
+    </g>
+    <g id="楕円形_19" data-name="楕円形 19" transform="translate(173 867)" fill="#243552" stroke="#243552" stroke-width="1">
+      <circle cx="7.5" cy="7.5" r="7.5" stroke="none"/>
+      <circle cx="7.5" cy="7.5" r="7" fill="none"/>
+    </g>
+    <g id="楕円形_18" data-name="楕円形 18" transform="translate(207 867)" fill="#243552" stroke="#243552" stroke-width="1">
+      <circle cx="7.5" cy="7.5" r="7.5" stroke="none"/>
+      <circle cx="7.5" cy="7.5" r="7" fill="none"/>
+    </g>
+    <g id="楕円形_17" data-name="楕円形 17" transform="translate(241 866)" fill="#243552" stroke="#243552" stroke-width="1">
+      <ellipse cx="7.5" cy="7" rx="7.5" ry="7" stroke="none"/>
+      <ellipse cx="7.5" cy="7" rx="7" ry="6.5" fill="none"/>
+    </g>
+    <g id="楕円形_16" data-name="楕円形 16" transform="translate(274 866)" fill="#243552" stroke="#243552" stroke-width="1">
+      <circle cx="7.5" cy="7.5" r="7.5" stroke="none"/>
+      <circle cx="7.5" cy="7.5" r="7" fill="none"/>
+    </g>
+    <line id="線_14" data-name="線 14" x1="14.511" y2="15.171" transform="translate(350.831 827.369)" fill="none" stroke="#243552" stroke-width="2"/>
+    <line id="線_15" data-name="線 15" x1="14.511" y2="15.171" transform="translate(350.831 866.285)" fill="none" stroke="#243552" stroke-width="2"/>
+    <text id="_9:00_12:30" data-name="9:00~12:30" transform="translate(44 840)" fill="#243552" font-size="11" font-family="KanazawaHonmaruGothicMini"><tspan x="0" y="0">9:00~12:30</tspan></text>
+    <text id="_15:00_19:00" data-name="15:00~19:00" transform="translate(39 883)" fill="#243552" font-size="11" font-family="KanazawaHonmaruGothicMini"><tspan x="0" y="0">15:00~19:00</tspan></text>
+    <text id="受付時間" transform="translate(54 794)" fill="#fff" font-size="11" font-family="KanazawaHonmaruGothicMini"><tspan x="0" y="0">受付時間</tspan></text>
+  </g>
+</svg>

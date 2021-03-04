@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105" height="100" viewBox="0 0 105 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #243552;
+        font-size: 15px;
+        font-family: KanazawaHonmaruGothicMini;
+      }
+    </style>
+  </defs>
+  <text id="massage-text-sp" class="cls-1" transform="translate(0 16)"><tspan x="0" y="0">骨格を調整し、</tspan><tspan x="0" y="27">バランスを整え</tspan><tspan x="0" y="54">痛みなどに対応</tspan><tspan x="0" y="81">いたします。</tspan></text>
+</svg>
