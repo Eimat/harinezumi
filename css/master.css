@@ -1,0 +1,362 @@
+
+.pc-wrap {
+  display: flex;
+  height: 100%;
+}
+
+.sp-wrap {
+  display: none;
+}
+
+#sub {
+  background-color: #243552;
+  height: 100vh;
+}
+
+#top-page {
+  background: url(../images/main.jpg) no-repeat 0 0;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+
+.container {
+  margin: 0 10%;
+  height: 100%;
+}
+
+#content {
+  background: url(../images/texture.jpg) no-repeat 0 0;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 100vh;
+  width: 100%;
+  color: #243552;
+  overflow: hidden;
+}
+
+/* ------------------------------------------------------------------sub */
+
+.sub-wrap {
+  height: 100%;
+  width: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
+
+.icon-list ul {
+  display: flex;
+}
+
+.icon {
+  border: 1px solid white;
+  background-color: white;
+  width: 1.8em;
+  height: 1.8em;
+  line-height: 1.8em;
+  border-radius: 50%;
+  text-align: center;
+  margin: 4px;
+  display: block;
+  color: #243552;
+  font-size: 1.5em;
+}
+
+.icon:hover {
+  background-color: #243552;
+  color:  white;
+}
+
+
+.menu {
+  margin-bottom: 2em;
+}
+
+.menu ul li a {
+  color: white;
+  font-weight: bold;
+}
+
+.menu ul li {
+  margin: 1em 0;
+}
+
+.item-text {
+  position: relative;
+  z-index: 1;
+}
+
+.item-text:after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -5px;
+  width: 0%;
+  height: 2px;
+  background: white;
+  z-index: -1;
+  transition: all 0.4s;
+}
+
+.item:hover .item-text:after {
+  width: 100%;
+}
+
+.bnr {
+  position: relative;
+}
+
+.bnr-white::after {
+  content: "";
+  background-color: white;
+  opacity: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.bnr-white:hover::after {
+  background-color: white;
+  opacity: 0.2;
+}
+
+.sub-copy {
+  font-size: 0.8em;
+  margin-bottom: 1em;
+}
+
+/* -----------------------------------------------------------------top-page */
+
+.toppage-wrap {
+  text-align: center;
+  height: 100%;
+}
+
+.tel-text {
+  margin-top: 1em;
+  font-weight: bold;
+  color: #243552;
+}
+
+.tel-text ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tel {
+  background-color: white;
+  padding: 0.5em 1em;
+  border-radius: 10px;
+  margin-right: 1em;
+}
+
+.tel-icon {
+  margin-right: 5px;
+}
+
+/* ----------------------------------------------------------------concept */
+
+.content-wrap {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.content-text {
+  font-size: 0.9em;
+  margin: 1em 0;
+}
+
+.wrap {
+  padding: 1em 0;
+}
+
+.logo-s {
+  display: flex;
+  align-items: center;
+}
+
+.logo-s p {
+  margin-left: 2em;
+}
+
+.staff-photo {
+  display: flex;
+  justify-content: space-between;
+  margin: 1em 0;
+}
+
+.staff {
+  text-align: center;
+}
+
+/* ----------------------------------------------------------------- aroma*/
+
+.needle-wrap {
+  display: flex;
+}
+
+.left-wrap {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.right-wrap {
+  margin-left: 3em;
+}
+
+.aroma-wrap {
+  display: flex;
+}
+
+.aroma-wrap .content-text {
+  margin-top: 2em;
+  width: 70%;
+}
+
+/* -----------------------------------------------------------------massage */
+
+.content-wrap-2 {
+  background-color: rgba(255, 255, 255, 0.8);
+  margin: 1em 0;
+  height: 100%;
+}
+
+.massage-wrap {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+}
+
+.massage-title {
+  margin-top: 1em;
+}
+
+.text-m {
+  padding: 2% 5%;
+  width: 80%;
+}
+
+.text-m span {
+  font-size: 0.8em;
+}
+
+.massage-character {
+  position: absolute;
+  bottom: 1%;
+}
+
+.right-massage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.right-massage ul li:nth-child(1) {
+  margin-left: 3em;
+}
+
+/* -----------------------------------------------------------------access */
+
+.access-wrap {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-around;
+}
+
+.access-text {
+  margin-top: 2em;
+  margin-bottom: 0;
+}
+
+.access-text p {
+  font-weight: bold;
+}
+
+.address-text ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.add-text p {
+  font-size: 0.8em;
+}
+
+.add-catch {
+  background-color: rgba(255, 255, 255, 0.5);
+  border: 1px solid #FF8A37;
+  border-radius: 10px;
+  padding: 2%;
+  margin: 2%;
+}
+
+.map {
+  height: 100%;
+  padding: 2% 0;
+}
+
+.map iframe {
+  width: 100%;
+  height: 100%;
+}
+
+/* ---------------------------------------------------------------reserv */
+
+.reserv-wrap {
+  font-weight: bold;
+}
+
+.input-wrap {
+  display: flex;
+  text-align: right;
+  margin: 3% 0;
+}
+
+.input-wrap p {
+  width: 100px;
+  padding-right: 1em;
+}
+
+.input-wrap input {
+  border: 1px solid rgb(210, 210, 210);
+  padding: 5px;
+}
+
+.input-wrap textarea {
+  border: 1px solid rgb(210, 210, 210);
+  width: 50%;
+  height: 5em;
+}
+
+.buttun input {
+  background-color: #FF8A37;
+  color: white;
+  border: none;
+  padding: 0.5em 2em;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.buttun input:hover {
+  background-color: #243552;
+}
+
+.buttun {
+  text-align: center;
+}
+
+.reserv-character {
+  position: absolute;
+  right: 0;
+  bottom: 1%;
+}

@@ -1,0 +1,329 @@
+@media screen and (max-width: 599px) {
+
+  body {
+    min-width: 0!important;
+  }
+
+  .sp-wrap {
+    display: block;
+  }
+
+  .none {
+    display: none;
+  }
+
+  #sp-toppage {
+    background: url(../images/main.jpg) no-repeat 0 0;
+    background-size: cover;
+    height: 100vh;
+  }
+
+  .sp-topwrap {
+    height: 100%;
+    text-align: center;
+  }
+
+  .sp-toptext {
+    position: absolute;
+    right: 20%;
+    top: 25%;
+  }
+
+  .sp-toplogo {
+    position: absolute;
+    bottom: 10%;
+    width: 100%;
+  }
+
+  .sp-topicon {
+    position: absolute;
+    bottom: 0;
+    color: white;
+    font-size: 2em;
+    width: 100%;
+  }
+
+  .icon-list ul {
+    justify-content: center;
+    margin-top: 2em;
+  }
+
+  /* --------------------------------------------------------------calendar */
+  .sp-calendar {
+    padding: 2em 0;
+  }
+
+  .tel {
+    background-color: #243552;
+    color: white;
+  }
+
+  /* ------------------------------------------------------------concept */
+  #concept {
+    background: url(../image-sp/texture-sp.jpg) no-repeat 0 0;
+    background-size: cover;
+    padding: 1em 0;
+    box-sizing: border-box;
+    height: 100vh;
+  }
+
+  .sp-section {
+    padding-top: 1em;
+    text-align: center;
+  }
+
+  .sp-conceptwrap {
+    background-color: rgba(255, 255, 255, 0.8);
+    height: 100%;
+  }
+
+  .sp-text {
+    margin: 2em 0;
+    line-height: 2em;
+    font-size: 0.8em;
+  }
+
+  /* -----------------------------------------------------------------staff */
+  .staff-photo {
+    margin-top: 2em;
+  }
+
+  .staff {
+    margin: 5px;
+  }
+
+  /* ---------------------------------------------------------------needle */
+  #needle {
+    height: 100%;
+  }
+
+  .sp-needlewrap {
+    text-align: center;
+  }
+
+  .sp-title {
+    height: 200px;
+    text-align: center;
+  }
+
+  .sp-titleline {
+    background-color: #243552;
+    padding-top: 23%;
+    width: 100%;
+  }
+
+  .circle {
+    background-color: white;
+    border-radius: 50%;
+    width: 8em;
+    height: 8em;
+    line-height: 5em;
+    text-align: center;
+    display: inline-block;
+    margin-top: -7%;
+  }
+
+  .sp-imagewrap {
+    position: relative;
+  }
+
+  .sp-character {
+    position: absolute;
+    top: 18px;
+    z-index: -1;
+    left: 0;
+  }
+
+  .needleimg-p {
+    position: absolute;
+    bottom: 0;
+    right: 2%;
+  }
+
+  .sp-needletext {
+    position: relative;
+    padding-top: 7em;
+  }
+
+  .sp-needletext p {
+    border-radius: 20px;
+    text-align: left;
+    background-color: #243552;
+    padding: 10% 8%;
+    color: white;
+    line-height: 1.7em;
+  }
+
+/* -------------------------------------------------------------------aroma */
+  .sp-aromatext {
+    background: url(../image-sp/texture-sp.jpg) no-repeat 0 0;
+    background-size: cover;
+    padding: 15% 0;
+  }
+
+  .sp-aromatext p {
+    background-color: rgba(255, 255, 255, 0.8);
+    color: #243552;
+    padding: 10% 8%;
+    text-align: left;
+    border-radius: 20px;
+    font-size: 0.9em;
+  }
+
+  .sp-aromatitle {
+    position: relative;
+    height: 150px;
+  }
+
+  .sp-aromatitle .circle {
+    margin-top: 15%;
+    z-index: 10;
+  }
+
+  .sp-aromaimg {
+    position: absolute;
+    bottom: -26px;
+    right: 0;
+  }
+
+  /* ------------------------------------------------------------massage */
+
+  .sp-massageimg {
+    position: relative;
+    height: 450px;
+  }
+
+  .sp-massageimg ul li:nth-child(1) {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .sp-massageimg ul li:nth-child(2) {
+    position: absolute;
+    bottom: 10%;
+    right: 0;
+    background-color: white;
+    border-radius: 50%;
+    border: 4px solid white;
+  }
+
+  .sp-massageimg ul li:nth-child(3) {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+
+  .sp-massagetext-wrap {
+    position: relative;
+    padding-top: 5em;
+  }
+
+  .sp-character-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+
+  .sp-massagetext {
+    background: url(../image-sp/texture-sp.jpg) no-repeat 0 0;
+    background-size: cover;
+    padding: 7% 0;
+  }
+
+  .sp-massagetext ul {
+    background-color: rgba(255, 255, 255, 0.8);
+    color: #243552;
+    padding: 10% 8%;
+    text-align: left;
+    font-size: 0.9em;
+  }
+
+  .sp-massagetext ul li:nth-child(2) {
+    background-color: #243552;
+    width: 145px;
+    color: white;
+    padding: 6% 6%;
+    border-radius: 20px;
+    font-size: 0.9em;
+    margin-top: 2em;
+    line-height: 2em;
+  }
+
+  /* access */
+  #access {
+    height: 100vh;
+  }
+
+  .sp-bottomwrap {
+    color: #243552;
+    height: 100%;
+    overflow: hidden;
+  }
+
+  .sp-accesstext h2 {
+    font-size: 1em;
+  }
+
+  .sp-accesstext h3 {
+    margin-top: 1em;
+    font-size: 0.9em;
+  }
+
+  .sp-accesstext p {
+    border: 1px solid #ff8a37;
+    border-radius: 20px;
+    padding: 5% 5%;
+    font-size: 0.7em;
+    margin: 3em 0;
+  }
+
+  .sp-map iframe {
+    width: 100%;
+  }
+
+  /* --------------------------------------------------------reserv */
+
+  .content-text {
+    font-size: 0.8em;
+    line-height: 2em;
+    margin-bottom: 4em;
+  }
+
+  .input-wrap {
+    margin: 10% 0;
+  }
+
+  .input-wrap p {
+    font-size: 0.8em;
+  }
+
+  /* -----------------------------------------------------------footer */
+  .footer {
+    background: url(../image-sp/texture-sp.jpg) no-repeat 0 0;
+    background-size: cover;
+    color: #243552;
+    text-align: center;
+    padding: 1.5em;
+    margin-top: 5em;
+  }
+
+  .footer-circle {
+    background-color: white;
+    border-radius: 50%;
+    width: 10em;
+    height: 10em;
+    line-height: 7.2em;
+    text-align: center;
+    display: inline-block;
+  }
+
+  .footer p {
+    font-size: 0.7em;
+  }
+
+  .sp-bnr {
+    margin: 1.5em 0;
+  }
+}
